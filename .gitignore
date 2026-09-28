@@ -1,0 +1,22 @@
+# Embedded git repositories (should be submodules)
+.claude/agents/comprehensive-agents/
+claude-code-subagents/
+marketingskills/
+wshobson-agents/
+
+# Node modules and dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json

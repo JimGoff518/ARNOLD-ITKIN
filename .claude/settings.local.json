@@ -1,0 +1,48 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.arnolditkin.com)",
+      "WebFetch(domain:www.zehllaw.com)",
+      "WebFetch(domain:www.vbattorneys.com)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:www.ispot.tv)",
+      "Bash(npx claude-code-templates@latest --agent=devops-infrastructure/network-engineer --yes)",
+      "Bash(npx claude-code-templates@latest --agent=devops-infrastructure/devops-expert --yes)",
+      "Bash(winget install:*)",
+      "Bash(\"C:\\\\Program Files\\\\nodejs\\\\npx.cmd\" --version)",
+      "Bash(\"C:\\\\Program Files\\\\nodejs\\\\npx.cmd\" claude-code-templates@latest --agent=devops-infrastructure/deployment-engineer --yes)",
+      "Bash(\"C:\\\\Program Files\\\\nodejs\\\\npx.cmd\" claude-code-templates@latest --agent=devops-infrastructure/devops-expert --yes)",
+      "Bash(\"C:\\\\Program Files\\\\nodejs\\\\npx.cmd\" claude-code-templates@latest --agent=ai-specialists/search-specialist --yes)",
+      "Bash(powershell.exe -NoProfile -Command \"& ''C:\\\\Program Files\\\\nodejs\\\\npx.cmd'' claude-code-templates@latest --agent=devops-infrastructure/network-engineer --yes\")",
+      "Bash(powershell.exe -NoProfile -Command \"& ''C:\\\\Program Files\\\\nodejs\\\\npx.cmd'' claude-code-templates@latest --agent=devops-infrastructure/devops-expert --yes\")",
+      "Bash(powershell.exe -NoProfile -Command \"& ''C:\\\\Program Files\\\\nodejs\\\\npx.cmd'' claude-code-templates@latest --agent=ai-specialists/search-specialist --yes\")",
+      "Bash(powershell.exe -NoProfile -Command \"$env:PATH = ''C:\\\\Program Files\\\\nodejs;'' + $env:PATH; npx claude-code-templates@latest --agent=business-marketing/marketing-attribution-analyst --yes\")",
+      "Bash(powershell.exe -NoProfile -Command \"Get-ChildItem -Path ''c:\\\\Users\\\\jim\\\\OneDrive\\\\Documents\\\\ArnoldItkin\\\\.claude'' -Recurse | Select-Object FullName\")",
+      "WebFetch(domain:aitmpl.com)",
+      "Bash(git clone:*)",
+      "Bash(powershell.exe:*)",
+      "WebFetch(domain:www.similarweb.com)",
+      "Bash(dir /b \"C:\\\\Users\\\\jim\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-jim-OneDrive-Documents-ArnoldItkin\\\\tasks\"\" 2>nul | find /c \".output \")",
+      "Bash(dir \"C:\\\\Users\\\\jim\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-jim-OneDrive-Documents-ArnoldItkin\\\\tasks\")",
+      "Bash(findstr:*)",
+      "WebFetch(domain:growlaw.co)",
+      "WebFetch(domain:lucrativelegal.com)",
+      "WebFetch(domain:jurisdigital.com)",
+      "WebFetch(domain:insidea.com)",
+      "WebFetch(domain:www.wmlawyers.com)",
+      "WebFetch(domain:www.cahnlitigation.com)",
+      "WebFetch(domain:www.lexisnexis.com)",
+      "Bash(gh repo *)",
+      "Bash(ls \"C:\\\\Users\\\\jim\\\\Box\\\\Downloads\\\\crawl4ai-main \\(1\\).zip\")",
+      "Read(//c/Users/jim/Box/Downloads/**)",
+      "Bash(pip --version)",
+      "Bash(python -m pip --version)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:docs.crawl4ai.com)",
+      "Bash(gh api *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\jim\\OneDrive\\Documents\\ArnoldItkin"
+    ]
+  }
+}

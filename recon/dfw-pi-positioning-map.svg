@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+  <!-- Background -->
+  <rect width="1400" height="1100" fill="#0f172a"/>
+
+  <!-- Title -->
+  <text x="700" y="42" text-anchor="middle" font-size="28" font-weight="700" fill="#f8fafc">DFW Personal Injury Market — Strategic Positioning</text>
+  <text x="700" y="70" text-anchor="middle" font-size="14" fill="#94a3b8">Verified competitor landscape · 2026-05-11 · Goff Law PLLC competitive intelligence</text>
+
+  <!-- Quadrant grid: plot area x 200-1200, y 110-900 -->
+  <g>
+    <!-- Quadrant backgrounds -->
+    <rect x="200" y="110" width="500" height="395" fill="#1e293b" opacity="0.6"/>
+    <rect x="700" y="110" width="500" height="395" fill="#0c1424" opacity="0.6"/>
+    <rect x="200" y="505" width="500" height="395" fill="#0c1424" opacity="0.6"/>
+    <rect x="700" y="505" width="500" height="395" fill="#1e293b" opacity="0.6"/>
+
+    <!-- Quadrant labels -->
+    <text x="450" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#475569" letter-spacing="2">LOCAL GENERALISTS</text>
+    <text x="450" y="156" text-anchor="middle" font-size="11" fill="#475569">crowded · the war zone</text>
+
+    <text x="950" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#475569" letter-spacing="2">NATIONAL GENERALISTS</text>
+    <text x="950" y="156" text-anchor="middle" font-size="11" fill="#475569">brand &amp; ad-spend driven</text>
+
+    <text x="450" y="533" text-anchor="middle" font-size="13" font-weight="700" fill="#475569" letter-spacing="2">LOCAL SPECIALISTS</text>
+    <text x="450" y="551" text-anchor="middle" font-size="11" fill="#475569">deep on one vertical</text>
+
+    <text x="950" y="533" text-anchor="middle" font-size="13" font-weight="700" fill="#475569" letter-spacing="2">NATIONAL SPECIALISTS</text>
+    <text x="950" y="551" text-anchor="middle" font-size="11" fill="#475569">vertical mass tort plays</text>
+
+    <!-- Axis cross -->
+    <line x1="200" y1="505" x2="1200" y2="505" stroke="#334155" stroke-width="2"/>
+    <line x1="700" y1="110" x2="700" y2="900" stroke="#334155" stroke-width="2"/>
+
+    <!-- Axis labels -->
+    <text x="200" y="940" text-anchor="middle" font-size="13" font-weight="600" fill="#cbd5e1">← HYPER-LOCAL</text>
+    <text x="1200" y="940" text-anchor="middle" font-size="13" font-weight="600" fill="#cbd5e1">MULTI-STATE / NATIONAL →</text>
+    <text x="700" y="940" text-anchor="middle" font-size="12" fill="#64748b">Geographic scope</text>
+
+    <text x="170" y="120" text-anchor="end" font-size="13" font-weight="600" fill="#cbd5e1" transform="rotate(-90 170 120)">↑ GENERALIST</text>
+    <text x="170" y="895" text-anchor="end" font-size="13" font-weight="600" fill="#cbd5e1" transform="rotate(-90 170 895)">SPECIALIST ↓</text>
+    <text x="150" y="505" text-anchor="middle" font-size="12" fill="#64748b" transform="rotate(-90 150 505)">Practice depth</text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LOCAL GENERALISTS quadrant (top-left)                          -->
+  <!-- 3-column layout: Column A (x≈275), Column B (x≈430 — Goff),    -->
+  <!-- Column C (x≈580 — directories/generalists)                     -->
+  <!-- ============================================================ -->
+
+  <!-- TIER S: Mullen & Mullen (top center, larger) -->
+  <g>
+    <circle cx="430" cy="200" r="16" fill="#ef4444" stroke="#fee2e2" stroke-width="2"/>
+    <text x="430" y="180" text-anchor="middle" font-size="14" font-weight="700" fill="#fecaca">Mullen &amp; Mullen</text>
+    <text x="430" y="230" text-anchor="middle" font-size="10.5" fill="#94a3b8">Real organic threat · 4 of 6 SERPs</text>
+  </g>
+
+  <!-- Column A — Suburb specialists (left side) -->
+  <g>
+    <circle cx="275" cy="270" r="9" fill="#60a5fa"/>
+    <text x="290" y="274" font-size="11.5" fill="#dbeafe">Snellings (Frisco)</text>
+  </g>
+  <g>
+    <circle cx="275" cy="310" r="9" fill="#60a5fa"/>
+    <text x="290" y="314" font-size="11.5" fill="#dbeafe">McCraw (McKinney)</text>
+  </g>
+  <g>
+    <circle cx="275" cy="350" r="9" fill="#60a5fa"/>
+    <text x="290" y="354" font-size="11.5" fill="#dbeafe">Burress (Allen)</text>
+  </g>
+  <g>
+    <circle cx="275" cy="390" r="9" fill="#60a5fa"/>
+    <text x="290" y="394" font-size="11.5" fill="#dbeafe">Vecchio (Plano)</text>
+  </g>
+  <g>
+    <circle cx="275" cy="430" r="7" fill="#60a5fa" opacity="0.78"/>
+    <text x="288" y="434" font-size="10.5" fill="#cbd5e1">Hwang (Allen)</text>
+  </g>
+  <g>
+    <circle cx="275" cy="465" r="7" fill="#60a5fa" opacity="0.78"/>
+    <text x="288" y="469" font-size="10.5" fill="#cbd5e1">Patterson (Plano)</text>
+  </g>
+
+  <!-- Column C — Statewide generalists (right side of quadrant) -->
+  <g>
+    <circle cx="580" cy="270" r="8" fill="#94a3b8" opacity="0.85"/>
+    <text x="595" y="274" font-size="11" fill="#cbd5e1">Stanley &amp; Associates</text>
+  </g>
+  <g>
+    <circle cx="580" cy="310" r="7" fill="#94a3b8" opacity="0.78"/>
+    <text x="593" y="314" font-size="10.5" fill="#cbd5e1">McGilberry &amp; Shirer</text>
+  </g>
+  <g>
+    <circle cx="580" cy="350" r="7" fill="#94a3b8" opacity="0.78"/>
+    <text x="593" y="354" font-size="10.5" fill="#cbd5e1">Montgomery Firm</text>
+  </g>
+  <g>
+    <circle cx="580" cy="390" r="7" fill="#94a3b8" opacity="0.78"/>
+    <text x="593" y="394" font-size="10.5" fill="#cbd5e1">DFW Injury Lawyers</text>
+  </g>
+  <g>
+    <circle cx="580" cy="430" r="7" fill="#94a3b8" opacity="0.78"/>
+    <text x="593" y="434" font-size="10.5" fill="#cbd5e1">Anderson Injury</text>
+  </g>
+
+  <!-- GOFF LAW (current) — center column, isolated for prominence -->
+  <g>
+    <polygon points="430,360 444,386 472,389 449,407 458,435 430,418 402,435 411,407 388,389 416,386"
+             fill="#fb923c" stroke="#fff7ed" stroke-width="2"/>
+    <text x="430" y="340" text-anchor="middle" font-size="14" font-weight="700" fill="#fed7aa">GOFF LAW (today)</text>
+    <text x="430" y="453" text-anchor="middle" font-size="10" fill="#fdba74">avg pos ~40 · 0.40% CTR</text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- NATIONAL GENERALISTS quadrant (top-right)                      -->
+  <!-- ============================================================ -->
+
+  <!-- Thompson Law (faded — brand only, big circle) -->
+  <g>
+    <circle cx="900" cy="220" r="18" fill="#64748b" stroke="#cbd5e1" stroke-width="2" opacity="0.85"/>
+    <text x="924" y="216" font-size="14" font-weight="700" fill="#cbd5e1">Thompson Law (1800LIONLAW)</text>
+    <text x="924" y="232" font-size="11" fill="#94a3b8">Brand/ad-spend · NOT organic threat</text>
+    <text x="924" y="247" font-size="10" fill="#64748b" font-style="italic">~2,000 pages · 0 top-10 organic ranks</text>
+  </g>
+
+  <g>
+    <circle cx="900" cy="305" r="13" fill="#94a3b8"/>
+    <text x="921" y="301" font-size="13" fill="#e2e8f0">Thomas J. Henry Law</text>
+    <text x="921" y="317" font-size="10" fill="#94a3b8">200+ attorneys, 350 staff</text>
+  </g>
+
+  <g>
+    <circle cx="900" cy="375" r="11" fill="#94a3b8"/>
+    <text x="918" y="371" font-size="12" fill="#e2e8f0">Ben Crump Law</text>
+    <text x="918" y="386" font-size="10" fill="#94a3b8">National brand, civil rights</text>
+  </g>
+
+  <g>
+    <circle cx="900" cy="440" r="9" fill="#94a3b8"/>
+    <text x="916" y="444" font-size="12" fill="#cbd5e1">Zinda Law Group</text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LOCAL SPECIALISTS quadrant (bottom-left)                       -->
+  <!-- ============================================================ -->
+
+  <!-- Witherite (Tier A real threat — truck specialist) -->
+  <!-- Place pin LEFT, label/tagline stacked BELOW the dot to avoid overlap -->
+  <g>
+    <circle cx="290" cy="610" r="14" fill="#ef4444" stroke="#fee2e2" stroke-width="2" opacity="0.85"/>
+    <text x="290" y="640" text-anchor="middle" font-size="13" font-weight="700" fill="#fecaca">Witherite Law Group</text>
+    <text x="290" y="657" text-anchor="middle" font-size="10" fill="#94a3b8">Dallas truck-accident specialist</text>
+    <text x="290" y="672" text-anchor="middle" font-size="9.5" fill="#94a3b8" font-style="italic">"Expertise Matters. You Matter®"</text>
+  </g>
+
+  <!-- Truck specialists cluster — column at x≈430 -->
+  <g>
+    <circle cx="430" cy="610" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="445" y="614" font-size="11" fill="#dbeafe">Aldous (truck)</text>
+  </g>
+  <g>
+    <circle cx="430" cy="645" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="445" y="649" font-size="11" fill="#dbeafe">Reyes Law (truck)</text>
+  </g>
+  <g>
+    <circle cx="430" cy="680" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="445" y="684" font-size="11" fill="#dbeafe">Shamieh (truck)</text>
+  </g>
+  <g>
+    <circle cx="430" cy="715" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="445" y="719" font-size="11" fill="#dbeafe">Slocumb (truck)</text>
+  </g>
+  <g>
+    <circle cx="430" cy="750" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="445" y="754" font-size="11" fill="#dbeafe">Dunn Sheehan (semi-truck)</text>
+  </g>
+
+  <!-- Car specialists — column at x≈580 -->
+  <g>
+    <circle cx="580" cy="610" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="595" y="614" font-size="11" fill="#dbeafe">Tate Law (car)</text>
+  </g>
+  <g>
+    <circle cx="580" cy="645" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="595" y="649" font-size="11" fill="#dbeafe">Kraft &amp; Assoc. (car)</text>
+  </g>
+  <g>
+    <circle cx="580" cy="680" r="8" fill="#60a5fa" opacity="0.85"/>
+    <text x="595" y="684" font-size="11" fill="#dbeafe">Ben Abbott (car)</text>
+  </g>
+
+  <!-- GOFF LAW (target) — bottom-center, isolated -->
+  <g>
+    <polygon points="450,800 464,826 492,829 469,847 478,875 450,858 422,875 431,847 408,829 436,826"
+             fill="#22c55e" stroke="#dcfce7" stroke-width="2" opacity="0.95"/>
+    <text x="450" y="785" text-anchor="middle" font-size="13" font-weight="700" fill="#bbf7d0">GOFF LAW (target)</text>
+    <text x="450" y="892" text-anchor="middle" font-size="10" fill="#86efac">DFW + emerging-litigation specialty</text>
+  </g>
+
+  <!-- Arrow from current → target Goff (dashed) -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#fb923c" opacity="0.6"/>
+    </marker>
+  </defs>
+  <line x1="430" y1="440" x2="448" y2="790" stroke="#fb923c" stroke-width="2" stroke-dasharray="6,6" opacity="0.55" marker-end="url(#arrowhead)"/>
+
+  <!-- ============================================================ -->
+  <!-- NATIONAL SPECIALISTS quadrant (bottom-right)                   -->
+  <!-- ============================================================ -->
+
+  <g>
+    <circle cx="900" cy="650" r="11" fill="#94a3b8" opacity="0.75"/>
+    <text x="918" y="647" font-size="12" fill="#e2e8f0">Arnold &amp; Itkin</text>
+    <text x="918" y="662" font-size="10" fill="#64748b" font-style="italic">Houston · maritime/offshore</text>
+    <text x="918" y="676" font-size="10" fill="#64748b" font-style="italic">NOT a competitor</text>
+  </g>
+
+  <g>
+    <circle cx="900" cy="750" r="11" fill="#60a5fa" opacity="0.85"/>
+    <text x="918" y="747" font-size="12" fill="#dbeafe">Zehl Law</text>
+    <text x="918" y="762" font-size="10" fill="#94a3b8">Houston · "undefeated truck"</text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- LEGEND (clean horizontal row at bottom)                        -->
+  <!-- ============================================================ -->
+  <g transform="translate(220, 985)">
+    <!-- Real organic threat -->
+    <circle cx="10" cy="0" r="8" fill="#ef4444"/>
+    <text x="25" y="4" font-size="12" fill="#e2e8f0">Real organic threat</text>
+
+    <!-- Goff current -->
+    <polygon points="187,-9 195,-2 209,-1 200,5 203,15 187,7 171,15 174,5 165,-1 179,-2" fill="#fb923c"/>
+    <text x="218" y="4" font-size="12" fill="#fed7aa">Goff Law (current)</text>
+
+    <!-- Goff target -->
+    <polygon points="357,-9 365,-2 379,-1 370,5 373,15 357,7 341,15 344,5 335,-1 349,-2" fill="#22c55e"/>
+    <text x="388" y="4" font-size="12" fill="#bbf7d0">Goff Law (target)</text>
+
+    <!-- Specialist -->
+    <circle cx="525" cy="0" r="8" fill="#60a5fa"/>
+    <text x="540" y="4" font-size="12" fill="#dbeafe">Specialist (vertical / suburb)</text>
+
+    <!-- Generalist competitor -->
+    <circle cx="750" cy="0" r="8" fill="#94a3b8"/>
+    <text x="765" y="4" font-size="12" fill="#cbd5e1">Generalist competitor</text>
+
+    <!-- Brand-only -->
+    <circle cx="935" cy="0" r="10" fill="#64748b" stroke="#cbd5e1" stroke-width="1.5" opacity="0.85"/>
+    <text x="954" y="4" font-size="12" fill="#cbd5e1">Brand/ad-spend only (not organic)</text>
+  </g>
+
+  <!-- Caption -->
+  <text x="700" y="1040" text-anchor="middle" font-size="11" fill="#64748b">
+    Strategic insight: Goff Law sits in the crowded "Local Generalists" quadrant. The white-space play (green star) is to claim emerging-litigation niches in DFW
+  </text>
+  <text x="700" y="1058" text-anchor="middle" font-size="11" fill="#64748b">
+    where no incumbent exists — moving from "DFW PI generalist #N" to "the DFW lawyer for [emerging tort]." See recon/COMPETITOR-SCOREBOARD.md for full intel.
+  </text>
+</svg>
