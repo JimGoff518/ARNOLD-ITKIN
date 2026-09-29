@@ -33,9 +33,7 @@ The original strategy docs all cited the wrong Thompson Law URL (`thompsons.law`
 - Inline `~~strikethrough~~ ⚠️ STALE` flags on quantitative metrics measured against the wrong URL
 
 Affected docs:
-- `goff-law-dfw-competitive-analysis-COMPLETE.md`
-- `goff-law-dfw-competitive-analysis-report.md`
-- `goff-law-competitive-analysis-ADDENDUM.md`
+- `goff-law-dfw-competitive-analysis-COMPLETE.md` (canonical source; others consolidated into this)
 
 ### 5. Full SEO audit plan written
 - Plan: `docs/plans/2026-05-10-goff-law-full-seo-audit.md`

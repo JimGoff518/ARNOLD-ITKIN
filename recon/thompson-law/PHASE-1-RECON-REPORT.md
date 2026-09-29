@@ -9,7 +9,7 @@
 
 ## CRITICAL ALERT — Existing competitive analysis cites the wrong URL
 
-Your prior competitive analysis docs in this workspace list `thompsons.law` as Thompson Law's website **in at least 4 places** ([goff-law-competitive-analysis-ADDENDUM.md:26](../../goff-law-competitive-analysis-ADDENDUM.md), [goff-law-dfw-competitive-analysis-report.md:186](../../goff-law-dfw-competitive-analysis-report.md), `:900`, `:2608`).
+Your prior competitive analysis docs in this workspace list `thompsons.law` as Thompson Law's website **in at least 4 places** ([goff-law-dfw-competitive-analysis-COMPLETE.md:26](../../goff-law-dfw-competitive-analysis-COMPLETE.md), [goff-law-dfw-competitive-analysis-COMPLETE.md:186](../../goff-law-dfw-competitive-analysis-COMPLETE.md), `:900`, `:2608`).
 
 **That URL is wrong.** Two domains were tested and neither is Ryan Thompson's PI firm:
 

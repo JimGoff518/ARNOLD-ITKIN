@@ -8,7 +8,7 @@
 
 ## Why Hamilton Wingo jumped to top priority
 
-Existing workspace docs flagged Hamilton Wingo as **LOW threat — "different market segment, doesn't compete for volume cases"** ([goff-law-dfw-competitive-analysis-report.md:275-311](../../goff-law-dfw-competitive-analysis-report.md)). That classification is now **suspect**.
+Existing workspace docs flagged Hamilton Wingo as **LOW threat — "different market segment, doesn't compete for volume cases"** ([goff-law-dfw-competitive-analysis-COMPLETE.md:275-311](../../goff-law-dfw-competitive-analysis-COMPLETE.md)). That classification is now **suspect**.
 
 The 2026-05-11 SERP audit ([recon/goff-law/07-serp-positioning.md](../goff-law/07-serp-positioning.md)) caught Hamilton Wingo in the **top 10 organic results for "Dallas personal injury lawyer"** alongside Mullen & Mullen, DFW Injury Lawyers, and Turley Law. That is the head commercial PI query. A "reputation-only referral firm" should not be ranking there.
 
@@ -26,16 +26,16 @@ The 2026-05-11 SERP audit ([recon/goff-law/07-serp-positioning.md](../goff-law/0
 
 | Field | Value | Source |
 |---|---|---|
-| Firm name | Hamilton Wingo, LLP | goff-law-dfw-competitive-analysis-report.md:277 |
-| Founded | 1990s (decade-level only) | competitive-analysis:278 |
-| Partners | Dean Hamilton, Jim Wingo | competitive-analysis:279 |
-| Website | hamiltonwingo.com | competitive-analysis:280 |
-| Notable verdict | **$7.37 billion verdict — largest in Texas history** | competitive-analysis:281 |
+| Firm name | Hamilton Wingo, LLP | goff-law-dfw-competitive-analysis-COMPLETE.md:277 |
+| Founded | 1990s (decade-level only) | goff-law-dfw-competitive-analysis-COMPLETE.md:278 |
+| Partners | Dean Hamilton, Jim Wingo | goff-law-dfw-competitive-analysis-COMPLETE.md:279 |
+| Website | hamiltonwingo.com | goff-law-dfw-competitive-analysis-COMPLETE.md:280 |
+| Notable verdict | **$7.37 billion verdict — largest in Texas history** | goff-law-dfw-competitive-analysis-COMPLETE.md:281 |
 | Settlements claim (SERP audit) | **$8 BILLION** | recon/goff-law/07-serp-positioning.md:81 |
-| Practice areas | Catastrophic injuries, wrongful death, trucking, product liability, complex commercial litigation | competitive-analysis:282-287 |
-| Marketing posture | Reputation-Based, Limited Advertising, Referral Network | competitive-analysis:289-292 |
-| Phone | (214) 234-2900 | competitive-analysis:2625-2640 |
-| Address | 3300 Oak Lawn Ave, Dallas, TX 75219 | competitive-analysis:2625-2640 |
+| Practice areas | Catastrophic injuries, wrongful death, trucking, product liability, complex commercial litigation | goff-law-dfw-competitive-analysis-COMPLETE.md:282-287 |
+| Marketing posture | Reputation-Based, Limited Advertising, Referral Network | goff-law-dfw-competitive-analysis-COMPLETE.md:289-292 |
+| Phone | (214) 234-2900 | goff-law-dfw-competitive-analysis-COMPLETE.md:2625-2640 |
+| Address | 3300 Oak Lawn Ave, Dallas, TX 75219 | goff-law-dfw-competitive-analysis-COMPLETE.md:2625-2640 |
 
 ⚠️ **Address curiosity:** 3300 Oak Lawn Ave is also referenced as Thompson Law territory in prior docs. Verify whether this is a coincidence (shared building / coworking) or a data error in source docs.
 
@@ -165,7 +165,7 @@ The SERP audit caught Hamilton Wingo on the "Dallas personal injury lawyer" head
 - Is it on a dedicated PI landing page or just the homepage?
 - What other commercial-intent queries do they currently rank for? (Re-run targeted WebSearches: "Dallas truck accident lawyer," "Dallas wrongful death lawyer," "Dallas catastrophic injury lawyer")
 
-### Versus the competitive analysis report (goff-law-dfw-competitive-analysis-report.md)
+### Versus the competitive analysis report (goff-law-dfw-competitive-analysis-COMPLETE.md)
 
 The existing classification needs reconciliation:
 - Lines 275-311 say "Threat Level: LOW (different market segment)"
@@ -204,7 +204,7 @@ The existing classification needs reconciliation:
 
 ## Files referenced
 
-- `goff-law-dfw-competitive-analysis-report.md` (workspace root) — lines 275-311, 2625-2640
+- `goff-law-dfw-competitive-analysis-COMPLETE.md` (workspace root) — lines 275-311, 2625-2640 (canonical source)
 - `recon/goff-law/07-serp-positioning.md` — line 19 (Dallas PI SERP), line 81 ($8B claim, top-10 placement)
 - `recon/COMPETITOR-SCOREBOARD.md` — needs Hamilton Wingo row added
 - `recon/thompson-law/PHASE-1-RECON-REPORT.md` — template for output format

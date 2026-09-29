@@ -10,7 +10,7 @@
 
 ## 🚨 CRITICAL ALERT — existing competitive analysis docs are materially WRONG about Hamilton Wingo
 
-Three independent pieces of intel in this workspace's competitive analysis docs ([goff-law-dfw-competitive-analysis-report.md:275-311](../../goff-law-dfw-competitive-analysis-report.md)) do not match reality:
+Three independent pieces of intel in this workspace's competitive analysis docs ([goff-law-dfw-competitive-analysis-COMPLETE.md:275-311](../../goff-law-dfw-competitive-analysis-COMPLETE.md)) do not match reality:
 
 | Field | What existing docs say | What this recon found |
 |---|---|---|
