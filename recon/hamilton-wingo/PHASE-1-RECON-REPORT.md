@@ -307,7 +307,7 @@ Every Dallas practice-area page follows the same skeleton:
 
 ### Immediate (this week)
 1. **Reclassify Hamilton Wingo in COMPETITOR-SCOREBOARD.md** from "not listed/LOW" to "HIGH (prestige tier)."
-2. **Correct the founders' names** in `goff-law-dfw-competitive-analysis-report.md` lines 275-311 — Dean Hamilton → Chris Hamilton, Jim Wingo → Paul Wingo.
+2. **Correct the founders' names** in `goff-law-dfw-competitive-analysis-COMPLETE.md` lines 275-311 — Dean Hamilton → Chris Hamilton, Jim Wingo → Paul Wingo.
 3. **Correct the address** in same doc.
 4. **Update intel dashboard** at gofflawsuperagent.up.railway.app/intel with new Hamilton Wingo profile card.
 
