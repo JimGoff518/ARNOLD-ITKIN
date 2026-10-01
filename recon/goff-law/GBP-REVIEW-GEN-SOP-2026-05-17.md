@@ -227,6 +227,6 @@ If no: manual is fine for the first 90 days. Evaluate a tool once Goff is doing 
 
 - [VOICE-GUIDE-v1-2026-05-16.md](VOICE-GUIDE-v1-2026-05-16.md) — voice rules + brand architecture
 - [reference_local_seo_pi_playbook](../../../../../C:/Users/jim/.claude/projects/c--Users-jim-OneDrive-Documents-ArnoldItkin/memory/reference_local_seo_pi_playbook.md) — 60% leads from map pack; reviews = #1 ROI
-- [CHELSEA-LOCAL-SEO-GAPS-2026-05-14.md](CHELSEA-LOCAL-SEO-GAPS-2026-05-14.md) — Chelsea's local SEO action list
+- [CHELSEA-LOCAL-SEO-GAPS-2026-05-14.md](../CHELSEA-LOCAL-SEO-GAPS-2026-05-14.md) — Chelsea's local SEO action list
 - [PHASE-2-SPANISH-REVIEWS-RECON-2026-05-17.md](../angel-reyes/PHASE-2-SPANISH-REVIEWS-RECON-2026-05-17.md) — Reyes review-velocity teardown + 5 validated themes + Spanish whitespace opportunity
-- [GBP-AUDIT-RESULTS-2026-05-16.md](GBP-AUDIT-RESULTS-2026-05-16.md) — current GBP state
+- [GBP-AUDIT-RESULTS-2026-05-16.md](../GBP-AUDIT-RESULTS-2026-05-16.md) — current GBP state
